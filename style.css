@@ -43,7 +43,7 @@ margin: 1px 3px;
 }
 .song{
     margin-top: -1px;
-    font-size: 11px;
+    font-size: 10px;
 }
 .dots{
     /* border: 2px solid black; */
@@ -63,6 +63,7 @@ height: 20px;
 display: flex;
 color: white;
 justify-content: space-between;
+    margin-top:3px;
 }
 .symbols{
     /* border: 1px solid black; */
